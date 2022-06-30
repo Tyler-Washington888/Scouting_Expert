@@ -1,6 +1,5 @@
 # Scouting_Expert
 NBA Mock Draft Website 
-# Meta-Minds
 - [Overview](#overview)
 - [MVP](#mvp)
   - [Goals](#goals)
